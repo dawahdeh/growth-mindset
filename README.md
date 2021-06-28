@@ -1,6 +1,6 @@
 # Growth Mindset
 
-My name is Mohammad Dawahdeh, I am telecommunication engineer, and I am  here to learn more about programming
+
 
 The growth mindset is a way of thinking that would help the people to become more productive and succeess in there life.In this way of thinking the person believe that the abillity of the people can be improved by through perseverance and effort. In particular, the intelligence and talent can be exploited in order to achive success but it is not the secret behined the success. 
 
