@@ -29,6 +29,28 @@ The person should have reminder to his self in order to have a growth mindset li
 
 ###### *More  information can be found in [Growth Mindset ](https://www.atlassian.com/blog/inside-atlassian/growth-mindset).*
 
+
+
+
+# Introduction
+
+My name is Mohammad Dawahdeh, I am telecommunication engineer, and I am  intrested in learning programming.
+
+
+
+
+
+# Table  of content
+
+
+ 
+
+File             | Link
+------------ |    -------------
+growth   |  [growth](https://dawahdeh.github.io/reading-notes/growth) 
+README| [ReadME](https://dawahdeh.github.io/reading-notes/)
+ read01| [read01](https://dawahdeh.github.io/reading-notes/read01)
+
 My name is Mohammad Dawahdeh, I am telecommunication engineer, and I am  intrested in learning programming.
 
 
