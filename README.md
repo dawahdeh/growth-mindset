@@ -31,18 +31,15 @@ of the webpage known as tags inthe following there is some examples of the tages
 
 ![image](https://user-images.githubusercontent.com/86604843/124013911-81c77e00-d9a8-11eb-92c9-b9e9ca728911.png)
 
--Inserting image  we use:
+-Inserting image we use:
 
 ![image](https://user-images.githubusercontent.com/86604843/124017766-b806fc80-d9ac-11eb-8641-91d7fd784920.png)
 
 
 
-
-
-
 ### Semantics  
 
-*Semantics refer to the meaning of the written code*
+*Semantics refers to the meaning of the written code.*
 
 
 
