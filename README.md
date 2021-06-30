@@ -1,10 +1,10 @@
 
 
-# Important things need to know to build your website
+#  Important things need to know to build your website
 
 
  
- ### Wireframing
+ ###   Wireframing
 
 
  
