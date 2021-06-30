@@ -1,8 +1,11 @@
 
+
 # Important things need to know to build your website
 
+
  
-### Wireframing
+ ### Wireframing
+
 
  
 *Wireframing is  the process of making  the draft of the website and providing an scheme to how the infomration will appear to the end user and how the user would interact with the website.Wireframing can be done by pen on papers or by using computer, well known software for wireframing are Invision and Balsamiq. 
