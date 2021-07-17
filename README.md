@@ -19,3 +19,4 @@
 14. [14th](#14th)
 15. [15th](#15th)
 
+*This table of contents for 15 daily reading assignments*
