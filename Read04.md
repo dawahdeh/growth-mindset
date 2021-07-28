@@ -38,7 +38,7 @@ function name(parameter1, parameter2, parameter3) {
  The calling of the function can be done by the name of the function and  by passing the parameters to the function.
   
   
-  # Object 
+# Object 
   
   The idea of the object in the JS is the same as the object in the real life for example if we have a mobile as object it has its features like colore ,size price and so on
   and the object in the JS has it won variables that are related to the object known as properties, we can define object by Objectname ={property1=value1,property2=value2}
@@ -46,10 +46,10 @@ function name(parameter1, parameter2, parameter3) {
   
   
   
-  # Method 
+ # Method 
   The object would also have an method like the properties of the object, methods are stored in properties as function definitions. and it can be accessed by   objectName.methodName().
 
- ## Team work 
+# Team work 
 There are many reasons for team working programming and it can be summarized in the following :
 
 1-improve the communication skills .
