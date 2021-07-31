@@ -7,20 +7,19 @@ Using the images in the website would improve the website apperance, HTML use  s
 The <img> tag has two required attributes:
 
 src - Specifies the path to the image
-alt - Specifies an alternate text for the image
+alt - Specifies an alternate text for the image as the broken link icon and the alt text are shown if the browser cannot find the image.
 
-The src Attribute
-The required src attribute specifies the path (URL) to the image.
+### Image Size - Width and Height
 
-The broken link icon and the alt text are shown if the browser cannot find the image.
-
-Image Size - Width and Height
-You can use the style attribute to specify the width and height of an image.
-
-<img src="img_girl.jpg" alt="Girl in a jacket" style="width:500px;height:600px;">
+Alternatively, you can use the width and height attributes to specify the width and height of an image.
 
 
-Alternatively, you can use the width and height attributes:
+## JPEG vs PNG vs GIF 
+
+Mainly there are three main images types loaded to the websites JPEG vs PNG vs GIF, these three types have significant difference between them that make each type suitable for given application.Being aware about the difference between these images helping us to find the best suitable type of the website. and these main difference are :
+1-Compression  2-Transparency 3-Colours 4-Animation
+As asummery  : 
+JPEG is the best use for the image where the variation in the colour and the intensity is smooth, PNG the best use for the image that needs transparency and for images with text and object with sharp and contrast edges like logos, and finally for  the images that contain animation the GIF is the best use. 
 
 
  
