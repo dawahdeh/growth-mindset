@@ -20,10 +20,10 @@ const ObjectName {
 }
 
 in order to access the object we use the objectname followed by (.) and then the property like  ObjectName.Property  and we use the same way to
-access the method of the object. and we use the word this instead of the object name if swe need to access the property inside the object itself.
+access the method of the object. and we use the word this instead of the object name if we need to access the property inside the object itself.
 
 
-## Document Object Model (DOM)
+### Document Object Model (DOM)
 
 DOM is a programming interface to modify the HTML document by series of object and the base object.
 
@@ -39,7 +39,13 @@ this method is used to define a spacified element and insert it to the dom.
 
 #### The getElementById() method
 
-This method used to get the element from the document by its id from the .
+This method used to get the element from the document by its id.
+
+### The getElementsByTagname() method
+
+This method is used to access one or more elements by the HTML tag name.
+
+
 
 
 
